@@ -1,6 +1,6 @@
-## Overview
+# Overview
 
-This is a REST APIs in Node.js using mongodb.
+This is a REST API in Node.js using mongodb.
 
 ## Getting Started
 
